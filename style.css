@@ -566,7 +566,7 @@ body {
    @media screen and (min-width:1025px){
    .wrapper{
         background-color:#F79214;
-         max-width: 100%;
+         width: 100%;
          margin: 0;
          padding: 90px 0;
          position: relative;
@@ -577,7 +577,7 @@ body {
     @media screen and (max-width:1024px){
    .wrapper{
         background-color:#F79214;
-         max-width: 100%;
+         width: 100%;
          margin: 0;
          padding: 140px 0;
          position: relative;
@@ -587,8 +587,8 @@ body {
    
     @media screen and (max-width:676px){
         .wrapper{
-            background-color:#F79214;
-         max-width: 100%;
+         background-color:#F79214;
+         width: 100%;
          margin: 0;
          padding: 120px 0;
          position: relative;
